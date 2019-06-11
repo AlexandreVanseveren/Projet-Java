@@ -1,0 +1,1 @@
+La vue principale s'appelle vue/Menu.jsp
